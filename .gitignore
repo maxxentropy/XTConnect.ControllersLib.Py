@@ -51,3 +51,6 @@ dmypy.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Azure DevOps config
+.ado/
